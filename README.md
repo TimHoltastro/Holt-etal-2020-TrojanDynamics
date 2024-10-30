@@ -5,11 +5,19 @@ Holt, Timothy R.; Nesvorný, David; Horner, Jonti; King, Rachel; Marschall, Raph
 
 The code included here
 JovianTrojan: Codeset used to run the N-body simulations in an HPC environment. Based on REBOUND.
+
 EscapeAnalysis: Codeset that analyses the escapes from the Jovian Trojan swarms. 
+
 Figure1-TrojanElements.py: used to create Figure 1 showing the elements of the Trojans. Modified from code used in Horner et al (2020)
+
 Figure2-GraphingTrojansSFD0.61.py: used to create figure 2, the Size Frequency distribution of the Jovian Trojans. 
+
 Figure3-EscapePlotsScatter05.py: used to create figure 3, scatter plots showing escapes
+
 Figure4-EscapePlotsSimplified091.py: Used to create figures 4, 5 & 6, histograms and linear analysis of Trojan population escapes. 
-Figure8-EscapeJTFamilies07.py: Creating figures 8(L4) & 11(L5). Similar to Figure 3, but highlighting Jovian Troan Families. 
+
+Figure8-EscapeJTFamilies07.py: Creating figures 8(L4) & 11(L5). Similar to Figure 3, but highlighting Jovian Troan Families.
+
 Figure9-EscapeJTFamiliesEurybates02.py: Used to create figures 9 & 10. Figure 9 as per figures 3 and 8, but only for the Eurybates family. Figure 10 showing regression analysis. 
+
 Holtetal2020_JovTrojanEscapes.csv: Results of Escape analysis. 
